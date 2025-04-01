@@ -49,6 +49,10 @@ button {
     border-radius: 1vh;
 }
 
+button:hover {
+    background-color: red;
+}
+
 
 footer {
     background-color: #333;
